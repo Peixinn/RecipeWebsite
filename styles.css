@@ -1,0 +1,77 @@
+.center {
+    text-align: center;
+    font-family: Arial;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.choices {
+    font-family:Arial;
+    font-size: 30px; 
+}
+
+.recipe {
+    column-count: 2;
+}
+
+.cheese{  
+    text-align: left;
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+
+/*.ingredients{
+    text-align: left;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.steps{ 
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold; 
+}    */
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 10%;
+    padding: 5px; 
+  }
+
+.help {
+    column-count: 2;
+}
+
+.main, main:hover, main:focus, main:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.chicken{
+    text-align: left;
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.pizza{
+    text-align: left;
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.black{
+    text-align: left;
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+}
